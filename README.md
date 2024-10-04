@@ -110,6 +110,8 @@ Click the cds.lib file and save the file by clicking on Save option
 ## Fig 6: Nclaunch Window
 
 To perform the function simulation, the following three steps are involved Compilation, Elaboration and Simulation.
+![Screenshot 2024-10-03 150511](https://github.com/user-attachments/assets/17bd6d07-be58-4c48-94f0-6d3975a553e4)
+
 
 ## Step 1: Compilation:– Process to check the correct Verilog language syntax and usage 
 
